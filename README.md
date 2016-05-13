@@ -15,7 +15,8 @@ a tool for code lines count
 
 版本: 1.1
 
-框架：UI层：
+框架：
+      UI层：
       1.采用MainFrame继承JFrame类，负责UI和消息响应；
       2.采用BKGJPanel继承JPanel类，负责背景设置和文字显示；
       
