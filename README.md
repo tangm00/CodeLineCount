@@ -1,5 +1,5 @@
 # CodeLineCount
-a java gui tool for code lines count
+a tool for code lines count
 
 功能：统计代码行数（c, c++, c#, java）
 
@@ -14,4 +14,3 @@ a java gui tool for code lines count
 时间：2016-05-11 20:00 -- 2016-05-12 09:37
 
 版本: 1.1
-
